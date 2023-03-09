@@ -1,6 +1,6 @@
 # juan-miguel
 Repositorio de prueba
-<!-- ddd-->
+<!-- COMENTARIO-->
 
 <ul>
   <li> ssss  </li>

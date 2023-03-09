@@ -1,2 +1,2 @@
 # juan-miguel
-Repositirio de prueba
+Repositorio de prueba
